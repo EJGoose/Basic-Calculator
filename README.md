@@ -9,4 +9,4 @@ This mini-project explores the fundamental concepts of PHP syntax, through a sim
 - simple PHP arithmetic and executing your PHP code as a function 
 
 ### Notes
-- To run this file locally you will require a local server, during development I used XAMPP running an Apache server.
+- To run this file locally you will require a local server, during development I used XAMPP to run an Apache server.
